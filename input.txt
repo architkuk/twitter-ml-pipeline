@@ -1,0 +1,9 @@
+pfizer
+moderna
+jnj
+apple
+microsoft
+amazon
+american airlines
+carnival cruise
+hilton

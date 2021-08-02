@@ -3,7 +3,7 @@
 Instructions:
 
 To run the program, you will need a Twitter Developer account. 
-Once you have created an account, you should receive a bearer token that you should add to a credentials.py file (bearer_token = "YOUR TOKEN".
+Once you have created an account, you should receive a bearer token that you should add to a credentials.py file (bearer_token = "YOUR TOKEN").
 
 In the inputs.txt file, add a search field to each line.
 100 Tweets will be pulled for each search field per day.
